@@ -1,0 +1,978 @@
+@media only screen and (min-width:1401px) {
+    .middleSectionInn {
+        max-width: 100%;
+    }
+    .ald1 {
+        max-width: calc(100% - 10px);
+    }
+    .middleSection {
+        width: calc(100% - 367px);
+    }
+    .rightSection, .right-top-box {
+        width: 367px;
+    }
+    .profile-cover-photo {
+        height: 200px;
+    }
+}
+@media only screen and (max-width:1500px) {
+    .profile-right-txt {
+        margin-right: 15px;
+        font-size: 12px;
+    }
+    .profile-left-sec {
+        font-size: 15px;
+    }
+}
+@media only screen and (max-width:1400px) {
+    .nav-head {
+        padding: 25px;
+        height: 132px;
+    }
+    .sidebar {
+        width: 300px;
+    }
+    .menus ul li.nav-item a.nav-link {
+        padding: 10px 25px 10px 35px;
+        font-size: 16px;
+    }
+    .menus ul li.nav-item a.nav-link img { 
+        width: 35px;
+        height: 35px;
+    }
+    .main-menus {
+        padding: 15px 0 0;
+        height: calc(100vh - 132px);
+    }
+    .middleMainSection {
+        padding-left: 300px;
+    }
+    .profile-left-sec {
+        letter-spacing: normal;
+        font-size: 15px;
+    }
+    .profile-right-btns ul li button.btn {
+        width: 30px;
+        height: 30px;
+    }
+    .social-btns button.btn {
+        font-size: 12px;
+    }
+    .ald1 {
+        font-size: 13px;
+        padding: 10px 0;
+    }
+    .ftr-btm {
+        padding: 15px 40px;
+        font-size: 11px;
+        letter-spacing: 1px;
+    }
+    .ab-desc h2 {
+        font-size: 14px;
+    }
+}
+@media only screen and (min-width:1920px) {
+}
+@media only screen and (min-width : 900px) and (max-width : 1290px) and (orientation : portrait) {
+}
+@media only screen and (min-width : 900px) and (max-width : 1920px) and (orientation : landscape) {
+}
+@media only screen and (min-width : 768px) and (max-width : 1024px) and (orientation : landscape) {
+}
+@media only screen and (max-width:1280px) {
+    .profile-photo {
+        width: 100px;
+    }
+    .profile-photo span {
+        width: 100px;
+        height: 100px;
+    }
+    .profile-left-sec, .profile-right-sec {
+        width: calc(50% - 50px);
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    .profile-right-txt {
+        margin-right: 12px;
+        font-size: 10px;
+    }
+    .profile-right-btns ul li button.btn {
+        width: 27px;
+        height: 27px;
+    }
+    .profile-right-btns ul li {
+        margin-left: 5px;
+    }
+    .profile-top-sec {
+        margin-top: -50px;
+    }
+    .profile-left-sec {
+        font-size: 13px;
+    }
+    .menus ul li.nav-item a.nav-link {
+        font-size: 14px;
+    }
+    span.n-num {
+        width: 20px;
+        height: 20px;
+        line-height: 20px;
+        font-size: 11px;
+        left: 50px;
+        top: 5px;
+    }
+    .nav-head .menuIcon {
+        width: 50px;
+    }
+    .menuIcon button.btn {
+        width: 35px;
+    }
+    .add-contetn-btn a {
+        font-size: 10px;
+        padding: 4px 10px;
+        letter-spacing: 1px;
+    }
+    .nav-head {
+        padding: 20px;
+        height: 122px;
+    }
+    .main-menus {
+        padding: 0;
+        height: calc(100vh - 122px);
+    }
+    .menus ul li.nav-item a.nav-link.active::before {
+        width: 7px;
+    }
+    .middleMainSection {
+        padding-left: 250px;
+    }
+    .sidebar {
+        width: 250px;
+    }
+    .middleSection {
+        padding: 0 15px;
+    }
+    
+}
+@media screen and (min-width: 1200px) {
+}
+@media screen and (max-width : 1199px) {
+    .choose-who-right {
+        width: 100%;
+        padding: 0 15px;
+        margin: 20px 0 0;
+    }
+    .choose-who-left {
+        width: 100%;
+    }
+}
+@media screen and (max-width: 1100px) {
+    .middleSection {
+        width: 100%;
+    }
+    .right-top-box, .rightSection {
+        width: 100%;
+        max-width: 700px;
+        margin: 10px auto;
+    }
+    .rightSection {
+        padding: 0;
+    }
+    .post-item {
+        width: 50%;
+        padding: 10px;
+        margin: 0;
+    }
+    .right-post-items {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        margin: 0 -10px;
+    }
+    .addContentSec {
+        padding-top: 55px;
+        padding-bottom: 55px;
+    }
+}
+@media only screen and (max-width:1024px) {
+    .up-rights-img {
+        width: 100%;
+    }    
+}
+@media screen and (max-width:1000px) {
+}
+@media screen and (min-width: 992px) {
+}
+@media screen and (max-width: 991px) {
+    .profile-cover-photo {
+        background: #000;
+    }
+    .menus ul li.nav-item a.nav-link.active::before {
+        content: none;
+    }
+    .ftr-btm {
+        display: none;
+    }
+    .right-top-box {
+        display: none;
+    }
+    .choose-content-tab li a {
+        width: 115px;
+        height: 115px;
+    }
+    .choose-content-tab li a span:nth-child(1) {
+        min-height: 55px;
+        line-height: 50px;
+        width: 45px;
+        margin: 0 auto;
+    }
+    .choose-content-tab li a span{
+        font-size: 20px;
+    }
+    .vd-img-section .react-tabs__tab-panel {
+        padding: 0 20px;
+    }
+    .rightSection {
+        padding: 0 15px;
+    }
+    .menus ul li.nav-item a.nav-link.active {
+        border-left: none;
+        border-bottom: 3px solid #FF0039 !important;
+    }
+    li.nav-item.profile-icon {
+        display: block;
+    }
+    li.nav-item.settings-icon {
+        display: none;
+    }
+    li.nav-item.notification-icon {
+        order: -1;
+    }   
+    li.nav-item.insights-icon {
+        order: -1;
+    }
+    .menus ul li.nav-item a.nav-link {
+        border-left: none;
+    }
+    .homeprofile-desktop {
+        display: none;
+    }
+    .homeprofile-mobile {
+        display: block;
+        width: 100%;
+    }
+    .ab-desc {
+        border-top: none;
+    }
+    .square-black-img {
+        position: relative;
+        top: 6px;
+        left: 4px;
+    }
+    .logo.signup-logo {
+        display: none;
+    }
+    .square-menu-mobile .logo {
+        width: 170px;
+        margin: 0 auto 0 auto;
+    }
+    .back-arrow {
+        /* display: none; */
+    }
+    .back-arrow.back-arrow-mobile {
+        position: relative;
+        left: -6px;
+        top: 0;
+        margin-bottom: 37px;
+        display: block;
+    }
+    .square-menu-mobile {
+        display: inline-block;
+    }
+    .tab-inner-content {
+        margin-top: 20px;
+    }
+    .sidebar {
+        width: 100%;
+        top: auto;
+        bottom: 0;
+        height: auto;
+    }
+    .main-menus {
+        height: auto;
+        max-width: 700px;
+        margin: 0 auto;
+    }
+    .nav-head {
+        display: none;
+    }
+    .main-menus span {
+        display: none;
+    }
+    .main-menus span.n-num {
+        display: block;
+        width: 15px;
+        height: 15px;
+        line-height: 15px;
+        font-size: 8px;
+        left: auto;
+        right: 10px;
+        top: 2px;
+        font-weight: normal !important;
+    }
+    .menus ul {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 10px 15px;
+    }
+    .profile-top-sec {
+        width: 100%;
+        align-items: center;
+        justify-content: center;
+        margin-top: -55px;
+        flex-direction: column;
+        position: relative; 
+    }
+    .profile-left-sec {
+        order: 1;
+        width: 100%;
+        letter-spacing: 2.21444px;
+        font-size: 14px;
+        padding: 0;
+        margin-bottom: 3px;
+        margin-top: 13px;
+        text-align: center;
+    }
+    .profile-photo {
+        width: 100%;
+    }
+    .profile-right-sec {
+        order: 1;
+        flex-direction: column;
+        width: 100%;
+        margin-left: 0;
+        padding: 0;
+        text-align: center;
+    }
+    .profile-right-txt {
+        margin-right: 0px;
+        font-size: 9px;
+        width: 100%;
+        text-align: center;
+    }
+    .profile-right-btns {
+        width: 100%;
+    }
+    .profile-right-btns ul {
+        flex-wrap: nowrap;
+        justify-content: space-between; 
+    } 
+    .subs-page-inn {
+        margin: 10px auto 65px;
+    }
+    .profile-right-btns ul li {
+        margin-left: 0;
+    }
+    .profile-right-btns {
+        width: 75%;
+        position: absolute;
+        top: 65px;
+    }
+    .profile-right-btns ul li button.btn {
+        width: 36px;
+        height: 36px;
+    }
+    .menus ul li.nav-item a.nav-link {
+        padding: 10px 10px;
+        font-size: 16px;
+        border-bottom: 3px solid transparent !important;
+    }
+    .middleMainSection {
+        padding: 0 0 90px;
+    }
+    .submt-frm {
+        /* display: none; */
+    }
+    .about-sec-mobile, .mob-secion {
+        display: block;
+        width: 100%;
+    }
+    .about-sec-mobile {
+        padding: 10px 15px;
+    }
+    .about-sec-mobile .ab-desc h2.ab-head {
+        margin: 0;
+    }
+    h2.ab-head img {
+        display: inline-block;
+        float: right;
+        max-width: 20px;
+    }
+    h2.ab-head.about-toggle-active img {
+        transform: rotate(180deg);
+    }
+    .about-sec-mobile .ab-desc {
+        max-width: 700px;
+        margin: 0 auto;
+        padding: 15px;
+        border: 1px solid #000000;
+    }
+    .profile-cover-photos {
+        padding: 0 15px;
+    }
+    .tab-inner-content.account-settings .your-birth {
+        margin-bottom: 10px;
+    }
+    .login-via.create-ac {
+        margin-bottom: 35px;
+    }
+    .help-sec ul li button, h2.accordion-header button{
+        font-size: 16px;
+    } 
+}
+@media screen and (max-width: 860px) {
+}
+@media screen and (max-width: 812px) {
+}
+@media only screen and (min-width : 768px) and (max-width : 991px) {
+}
+@media only screen and (max-width:768px) {
+}
+@media only screen and (max-width:767px) {
+    .login-section.setting-sec {
+        padding: 60px 0 50px;
+    }
+    .choose-who-top .who-inner {
+        justify-content: center;
+    }
+    .ch-in {
+        display: inline-block;
+    }
+    .choose-who-top-left {
+        text-align: center;
+        margin: 0 0 10px;
+    }
+    .vd-in {
+        margin: 0 auto;
+    }
+    .choose-who-mdl-left {
+        text-align: center;
+        margin: 0 0 15px;
+    }
+    .up-rights p {
+        text-align: center;
+    }
+    .up-rights {
+        text-align: center;
+    }
+    .up-rights button {
+        margin: 20px auto 0;
+    }
+    .choose-who-left, .choose-who-mdl-right {
+        width: 100%;
+        padding: 0;
+    }
+    .choose-who-right, .choose-who-mdl-left, .choose-who-top-left {
+        width: 100%;
+        padding: 0;
+    }
+    .back-arrow {
+        top: 20px;
+    }
+    .choose-who-top-right {
+        width: 100%;
+    }
+    .saves-post-items .post-item {
+        width: 60%;
+        max-width: 400px;
+        margin: 0 auto 10px;
+    }
+    .topHomeProfile .middleSection {
+        padding: 0;
+    }
+    .ftr-btm {
+        display: none;
+    }
+    .up-rights-img {
+        width: 100%;
+        height: 260px;
+    }
+    .up-rights-img img {
+        height: 100%;
+        object-fit: cover;
+        width: 100%;
+    }
+    .hide-mobile {
+        display: none;
+    }
+    .middleMainSec .vd-img-section {
+        display: block;
+        width: 100%;
+    }
+    .post-item {
+        width: 100%;
+        max-width: 400px;
+        margin: 0 auto;
+    }
+    .notifictions-view-page .notifiction-item .not-user {
+        width: 120px;
+    }
+    .notifictions-view-page .notifiction-item .not-txt {
+        width: calc(100% - 160px);
+        font-size: 12px;
+    }
+    .notifictions-view-page .notifiction-item .not-user .not-user-img {
+        width: 30px;
+        height: 30px;
+    }
+    .notifictions-view-page .notifiction-item .not-user .not-user-name {
+        font-size: 12px;
+    }
+    .notifictions-view-page .notifiction-item .not-drop {
+        width: 40px;
+    }
+    .vd-img-section .react-tabs__tab-panel {
+        padding: 0 15px;
+    }
+    
+}
+@media only screen and (max-width:680px) {
+}
+@media only screen and (max-width:640px) {
+    .chat-section-main .chat-section-left {
+        width: 100%;
+    }
+    .chat-section-main .chat-section-right {
+        display: none;
+        width: 100%;
+    }
+    .UserChatOpen .chat-section-left {
+        display: none;
+    }
+    .UserChatOpen .chat-section-right {
+        display: block;
+    }
+    .addContentSec.chat-page {
+        padding: 15px 5px 0;
+    }
+    .addContentSec.chat-page .user-img {
+        margin: 0 0 10px;
+    }
+    .addContentSec.chat-page .user-img img {
+        width: 80px;
+        height: 80px;
+    }
+    .addContentSec.chat-page .gist-name {
+        font-size: 13px;
+    }
+    .addContentSec.chat-page .choose-content {
+        margin-top: 15px;
+    }
+    .chat-page .chat-top-search {
+        padding: 10px;
+        height: 85px;
+    }
+    .right-chat-head {
+        padding: 10px;
+    }
+    .chat-page .chat-view-users {
+        height: calc(100vh - 384px);
+    }
+    .chat-page .ChatContent>div {
+        height: calc(100vh - 416px);
+    }
+    .chat-page .right-chat-head h6 {
+        margin: 0 0 10px;
+    }
+    .chat-page footer.StickyFooter .input-group {
+        padding: 10px;
+    }
+    .chat-page .form-control.log-inp {
+        height: 40px !important;
+        max-height: 40px !important;
+        padding: 8px;
+    }
+    .chat-page footer.StickyFooter .input-group>div button.btn {
+        border-radius: 4px;
+        height: 40px;
+        width: 40px;
+        padding: 10px;
+    }
+    .chat-page footer.StickyFooter .input-group>div {
+        width: 50px;
+        padding: 0 0 0 10px;
+    }
+    .chat-page footer.StickyFooter {
+        height: 60px;
+    }
+    .UserChatOpen .chat-section-right>button.btn {
+        display: block;
+        position: absolute;
+        padding: 0;
+        top: 90px;
+        left: 20px;
+    }
+    .UserChatOpen .chat-section-right>button.btn img {
+        width: 25px;
+    }
+    .menus ul li.nav-item a.nav-link img {
+        width: 25px;
+        height: 25px;
+    }
+    .middleMainSection.chat-page-main {
+        padding: 0 0 60px;
+    }
+    .main-menus span.n-num {
+        right: 0;
+        top: 0;
+    }
+    .user-item-img span {
+        width: 40px;
+        height: 40px;
+    }
+}
+@media only screen and (max-width:575px) {
+    .saves-post-items .post-item {
+        width: 100%;
+    }
+    .middleSection-login-page.forgot_password_page .logo,
+    .middleSection-login-page.signup_site_page .logo {
+        margin: 0 auto 100px;
+    }
+    .make-sure {
+        margin-left: 15px;
+        font-size: 12px;
+    }
+    .top-tb-btn ul li {
+        width: 100%;
+    }
+    .middle-post-items1 {
+        margin: 0;
+    }
+    .menus ul li.nav-item a.nav-link {
+        padding: 5px;
+    }
+    .middle-post-item {
+        width: 100%;
+        margin: 10px 0;
+    }
+    .login-section.signup-secion .make-sure {
+        margin: 0 0 0 10px;
+    }
+    .login-section.signup-secion .foo:after {
+        width: 162px;
+    }
+    .login-section.signup-secion .foo {
+        width: 265px;
+    }
+    .about-sec-mobile .ab-desc {
+        padding: 10px;
+    }
+    .link-imgg {
+        display: flex;
+        justify-content: space-between;
+    }
+    .link-imgg .user-img {
+        width: 100%;
+        text-align: center;
+    }
+    .link-imgg .change-photo {
+        width: 100%;
+    }
+    .profile-cover-photos .foo {
+        width: 155px;
+    }
+    .profile-cover-photos .foo:after {
+        padding: 13px 0;
+        width: 100%;
+        font-size: 11px;
+    } 
+    .user-img img {
+        width: 120px;
+        height: 120px;
+    }
+    .coverimg:after{
+        padding:13px 0;
+        font-size: 11px;
+    }
+    .cover-img img {
+        border: 2px solid #FF0039;
+        height: 100px;
+        width: 100%;
+        object-fit: cover;
+    }
+    .cover-img {
+        margin: 15px 0 33px;
+    }
+    .profile-cover-photos .row {
+        justify-content: space-between;
+        flex-wrap: nowrap;
+    }
+    .choose-content {
+        margin-top: 35px;
+    }
+    .gist-name {
+        font-size: 15px;
+    }
+    .up-rights {
+        margin-top: 25px;
+    }
+    .up-rights.vd-buttons .media-controls {
+        position: absolute;
+        top: 50%;
+        left: 35%;
+    }
+    .foo:after{
+        padding: 13px 0;
+    }
+    .choose-content h2 {
+        line-height: 23px;
+        font-size: 16px;
+    }
+    ul.choose-content-tab li {
+        margin: 0 5px;
+    }
+    .choose-content-tab li a {
+        width: 105px;
+        height: 105px;
+        padding: 10px;
+    }
+    .choose-content-tab li a span:nth-child(1) {
+        width: 35px;
+    }
+    .choose-content-tab li a span {
+        font-size: 16px;
+    }
+    .addContentSec {
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    .help-sec ul li button, h2.accordion-header button {
+        padding: 10px;
+    }
+    .info-sec h2.accordion-header button.accordion-button.collapsed::after {
+        width: calc(100% + 20px);
+        left: -10px;
+        position: relative;
+    }
+    .accordion-collapse.collapse.show .accordion-body::after {
+        width: calc(100% + 30px);
+        left: -15px;
+        position: relative;
+    }
+    .help-sec h3 {
+        padding: 0 10px;
+    }
+    .accordion-body {
+        padding: 10px 15px;
+    }
+    .back-arrow a, .back-arrow a:hover, .back-arrow .btn {
+        padding: 5px;
+    }
+    .login-section.setting-sec {
+        padding: 30px 0;
+    }
+    .back-arrow {
+        top: 30px;
+        left: 10px;
+    }
+    .back-arrow span.btn {
+        font-size: 0;
+    }
+    .back-arrow span.btn img {
+        width: 25px;
+    }
+    .choose-who-top-right .cus-rd {
+        width: 100%;
+        margin: 0 0 10px;
+    }
+    .choose-who-top {
+        margin: 0 0 30px;
+    }
+}
+@media only screen and (max-width:480px) {
+}
+@media only screen and (max-width:414px) {
+    .menus ul {
+        padding: 10px 5px;
+    }
+    .menus ul li.nav-item a.nav-link img {
+        width: 20px;
+        height: 20px;
+    }
+    .signup-secion .change-photo-inner {
+        width: 90%;
+    }
+    .profile-cover-photos {
+        padding: 0 15px;
+        max-width:100%;
+        margin: 0 auto;
+    }
+    .profile-cover-photos .row {
+        justify-content: space-between;
+        flex-wrap: nowrap;
+    }
+    .cover-img img {
+        height: 105px;
+    }
+    .profile-cover-photos .foo {
+        width: 100%;
+    }
+    .profile-cover-photos .user-img {
+        height: 120px;
+    }
+    .cover-img {
+        margin: 15px 0;
+        height: 120px;
+    }
+    .who-inner {
+        flex-direction: column;
+    }
+    .ch-in {
+        width: 100% !important;
+    }
+    .who-inner div {
+        margin: 7px 0;
+    }
+    .ch-in {
+        text-align: left;
+    }
+    .vd-in {
+        margin: 0 auto 20px auto;
+    }
+    .cus-rd {
+        width: 100% !important;
+    }
+    .who-inner [type="radio"]:checked + label,
+    .who-inner [type="radio"]:not(:checked) + label {
+        font-size: 11.25px;
+    }
+    .choose-content br {
+        display: none;
+    }
+    .change-photo-inner {
+        position: relative;
+        width: 100%;
+    }
+    .change-photo-inner label{
+        width: 100%;
+    }
+    .choose-content-tab li a {
+        width: 90px;
+        height: 90px;
+    }
+    .choose-content-tab li a span {
+        font-size: 14px;
+    }
+    .choose-content-tab li a span:nth-child(1) {
+        width: 25px;
+        min-height: 35px;
+        line-height: 35px;
+    }
+    .choose-content-tab li a {
+        width: 80px;
+        height: 80px;
+    }
+    .choose-content h2 {
+        margin: 0 0 20px;
+        font-size: 14px;
+    }
+    .frm-input {
+        width: 70%;
+        padding-right: 5px;
+    }
+    .frm-btn {
+        width: 30%;
+    }
+    .frm-btn button.btn {
+        height: 36px;
+        font-size: 12px;
+    }
+    .frm-input input[type="text"] {
+        height: 36px;
+        padding: 5px 10px;
+        font-size: 11px;
+    }
+    .notifictions-view-page .notifictions-head h2 {
+        font-size: 38px;
+    }
+    .notifictions-view-page .notifiction-item {
+        padding: 0;
+    }
+}
+@media only screen and (max-width:375px) {
+    .change-photo-inner {
+        position: relative;
+        width: 100%;
+    }
+    .logo {
+        max-width: 150px;
+    }
+    .link-imgg .change-photo-inner label{
+        font-size: 10px !important;
+        width: 150px;
+    }
+    .user-img img {
+        width: 100px;
+        height: 100px;
+    }
+    .cover-img img {
+        height: 80px;
+    }
+    .profile-cover-photos .user-img {
+        height: 100px;
+    }
+    .cover-img {
+        height: 100px;
+    }
+    .link-imgg .user-img img {
+        width: 130px;
+        height: 130px;
+    }
+    .make-sure {
+        margin-left: 10px;
+        font-size: 11px;
+        line-height: 18px;
+    }
+    .foo:after{
+        width: 100%;
+    }
+    .post-item-btn .media-controls button{
+        width: 100px;
+    }
+}
+@media only screen and (max-width:320px) { 
+    .signup-secion .change-photo-inner {
+        width: 75%;
+    }
+    .link-imgg .change-photo-inner label {
+        font-size: 9px !important;
+        width: 140px;
+    }
+    .link-imgg .user-img img {
+        width: 110px;
+        height: 110px;
+    }
+    .change-photo-inner label{
+        font-size: 10px !important;
+    }
+    .login-via ul li {
+        margin: 0 15px;
+    }
+    h2.accordion-header button, .help-sec ul li button{
+        font-size: 14px;
+    }
+}
+@media only screen and (max-width : 568px) and (orientation : landscape) {
+    /* .post-item {
+        width: 49.5%;
+        margin: 10px 0;
+    } */
+    .vd-in{
+        margin: 20px auto;
+    }
+}
+@media only screen and (max-width : 320px) and (orientation : portrait) {
+}
+@media only screen and (min-height: 620px) {
+}

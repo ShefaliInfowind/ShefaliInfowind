@@ -1,0 +1,682 @@
+@media only screen and (max-width:1400px) {
+    .middleSection-add-content1 .addContentSec {
+        width: 100%;
+        max-width: 77%;
+    }
+    .nav-head {
+        padding: 25px;
+        height: 132px;
+    }
+    .sidebar {
+        width: 300px;
+    }
+    .menus ul li.nav-item a.nav-link {
+        padding: 10px 25px 10px 35px;
+        font-size: 16px;
+    }
+    .menus ul li.nav-item a.nav-link img { 
+        width: 35px;
+        height: 35px;
+    }
+    .main-menus {
+        padding: 15px 0 0;
+        height: calc(100vh - 132px);
+    }
+    .middleMainSection {
+        padding-left: 300px;
+    }
+    .profile-left-sec {
+        letter-spacing: normal;
+        font-size: 15px;
+    }
+    .profile-right-btns ul li button.btn {
+        width: 30px;
+        height: 30px;
+    }
+    .social-btns button.btn {
+        font-size: 12px;
+    }
+    .ald1 {
+        font-size: 13px;
+        padding: 10px 0;
+    }
+    .ftr-btm {
+        padding: 15px 40px;
+        font-size: 11px;
+        letter-spacing: 1px;
+    }
+    .ab-desc h2 {
+        font-size: 14px;
+    }
+}
+@media only screen and (min-width:1920px) {
+}
+@media only screen and (min-width : 900px) and (max-width : 1290px) and (orientation : portrait) {
+}
+@media only screen and (min-width : 900px) and (max-width : 1920px) and (orientation : landscape) {
+}
+@media only screen and (min-width : 768px) and (max-width : 1024px) and (orientation : landscape) {
+}
+@media only screen and (max-width:1280px) {
+    .profile-photo {
+        width: 100px;
+    }
+    .profile-photo span {
+        width: 100px;
+        height: 100px;
+    }
+    .profile-left-sec, .profile-right-sec {
+        width: calc(50% - 50px);
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    .profile-right-txt {
+        margin-right: 20px;
+    }
+    .profile-right-btns ul li {
+        margin-left: 5px;
+    }
+    .profile-top-sec {
+        margin-top: -50px;
+    }
+    .profile-left-sec {
+        font-size: 13px;
+    }
+    .menus ul li.nav-item a.nav-link {
+        font-size: 14px;
+    }
+    span.n-num {
+        width: 20px;
+        height: 20px;
+        line-height: 20px;
+        font-size: 11px;
+        left: 50px;
+        top: 5px;
+    }
+    .nav-head .menuIcon {
+        width: 50px;
+    }
+    .menuIcon button.btn {
+        width: 35px;
+    }
+    .add-contetn-btn a {
+        font-size: 10px;
+        padding: 4px 10px;
+        letter-spacing: 1px;
+    }
+    .nav-head {
+        padding: 20px;
+        height: 122px;
+    }
+    .main-menus {
+        padding: 0;
+        height: calc(100vh - 122px);
+    }
+    .menus ul li.nav-item a.nav-link.active::before {
+        width: 7px;
+    }
+    .middleMainSection {
+        padding-left: 250px;
+    }
+    .sidebar {
+        width: 250px;
+    }
+    .middleSection {
+        padding: 0 15px;
+    }
+}
+@media screen and (min-width: 1200px) {
+}
+@media screen and (max-width: 1100px) {
+    .middleSection {
+        width: 100%;
+    }
+    .right-top-box, .rightSection {
+        width: 100%;
+        max-width: 700px;
+        margin: 10px auto;
+    }
+    .rightSection {
+        padding: 0;
+    }
+    .post-item {
+        width: 50%;
+        padding: 10px;
+        margin: 0;
+    }
+    .right-post-items {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        margin: 0 -10px;
+    }
+}
+@media only screen and (max-width:1024px) {
+    .up-rights-img {
+        width: 100%;
+    }
+    .middleSection-add-content1 .addContentSec {
+        width: 100%;
+        max-width: 90%;
+    }
+    
+}
+@media screen and (max-width:1000px) {
+}
+@media screen and (min-width: 992px) {
+}
+@media screen and (max-width: 991px) {
+    .ftr-btm {
+        display: none;
+    }
+    .right-top-box {
+        display: none;
+    }
+    .choose-content-tab li a {
+        width: 115px;
+        height: 115px;
+    }
+    .choose-content-tab li a span:nth-child(1) {
+        min-height: 55px;
+        line-height: 50px;
+        width: 45px;
+        margin: 0 auto;
+    }
+    .choose-content-tab li a span{
+        font-size: 20px;
+    }
+    .vd-img-section .react-tabs__tab-panel {
+        padding: 0 20px;
+    }
+    .menus ul li.nav-item a.nav-link.active {
+        border-left: none;
+    }
+    li.nav-item.profile-icon {
+        display: block;
+    }
+    li.nav-item.settings-icon, li.nav-item.audience-icon {
+        display: none;
+    }
+    li.nav-item.notification-icon {
+        order: -1;
+    }   
+    li.nav-item.insights-icon {
+        order: -1;
+    }
+    .menus ul li.nav-item a.nav-link {
+        border-left: none;
+    }
+    .homeprofile-desktop {
+        display: none;
+    }
+    .homeprofile-mobile {
+        display: block;
+        width: 100%;
+    }
+    .ab-desc {
+        border-top: none;
+    }
+    .square-black-img {
+        position: relative;
+        top: 6px;
+        left: 4px;
+    }
+    .logo.signup-logo {
+        display: none;
+    }
+    .square-menu-mobile {
+        display: flex !important;
+        align-items: flex-start;
+    }
+    .square-menu-mobile .logo {
+        width: 170px;
+        margin: 0 auto 0 auto;
+    }
+    .back-arrow {
+        display: none;
+    }
+    .back-arrow.back-arrow-mobile {
+        position: relative;
+        left: -6px;
+        top: 0;
+        margin-bottom: 37px;
+        display: block;
+    }
+    .square-menu-mobile {
+        display: block;
+    }
+    .tab-inner-content {
+        margin-top: 20px;
+    }
+    .sidebar {
+        width: 100%;
+        top: auto;
+        bottom: 0;
+        height: auto;
+    }
+    .main-menus {
+        height: auto;
+        max-width: 700px;
+        margin: 0 auto;
+    }
+    .nav-head {
+        display: none;
+    }
+    .main-menus span {
+        display: none;
+    }
+    .menus ul {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 10px 15px;
+    }
+    .profile-top-sec {
+        width: 100%;
+        align-items: center;
+        justify-content: center;
+        margin-top: -55px;
+        flex-direction: column;
+        position: relative; 
+    }
+    .profile-left-sec {
+        order: 1;
+        width: 100%;
+        font-size: 14px;
+        padding: 0;
+        margin-bottom: 3px;
+        margin-top: 13px;
+    }
+    .profile-photo {
+        width: 100%;
+    }
+    .profile-right-sec {
+        order: 1;
+        flex-direction: column;
+        width: 100%;
+        margin-left: 0;
+        padding: 0;
+    }
+    .profile-right-txt {
+        margin-right: 0px;
+        font-size: 9px;
+        width: 100%;
+    }
+    .profile-right-btns {
+        width: 100%;
+    }
+    .profile-right-btns ul {
+        flex-wrap: nowrap;
+        justify-content: space-between; 
+    } 
+    .profile-right-btns ul li {
+        margin-left: 0;
+    }
+    .profile-right-btns {
+        width: 75%;
+        position: absolute;
+        top: 65px;
+    }
+    .profile-right-btns ul li button.btn {
+        width: 36px;
+        height: 36px;
+    }
+    .menus ul li.nav-item a.nav-link {
+        padding: 10px 10px;
+        font-size: 16px;
+    }
+    .middleMainSection {
+        padding: 0 0 90px;
+    }
+    .submt-frm {
+        display: none;
+    }
+    .about-sec-mobile, .mob-secion {
+        display: block;
+        width: 100%;
+    }
+    .about-sec-mobile {
+        padding: 10px 15px;
+    }
+    .about-sec-mobile .ab-desc h2.ab-head {
+        margin: 0;
+    }
+    h2.ab-head img {
+        display: inline-block;
+        float: right;
+        max-width: 20px;
+    }
+    h2.ab-head.about-toggle-active img {
+        transform: rotate(180deg);
+    }
+    .about-sec-mobile .ab-desc {
+        max-width: 700px;
+        margin: 0 auto;
+        padding: 15px;
+        border: 1px solid #000000;
+    }
+    .login-section.setting-sec {
+        padding: 20px 0px 50px 0px;
+    }
+    .profile-cover-photos {
+        padding: 0 15px;
+    }
+    .accordion-collapse.collapse.show .accordion-body::after{
+        content: "";
+        width: 100%;
+        height: 1px;
+        background: linear-gradient(90deg, #202020 50%, #fff 74.62%, #fff 96.45%);
+        display: block;
+        margin-top: 0;
+        left: 0;
+    }
+    .tab-inner-content.account-settings .your-birth {
+        margin-bottom: 10px;
+    }
+    .login-via.create-ac {
+        margin-bottom: 35px;
+    }
+    .help-sec ul li button, h2.accordion-header button{
+        font-size: 16px;
+    }
+    h2.accordion-header button{
+        text-indent: 15px;
+    }
+    .info-sec {
+        padding-right: 25px;
+    }
+    .accordion-body {
+        padding-left: 25px;
+    }
+    .help-sec {
+        padding-left: 25px;
+    }
+}
+@media screen and (max-width: 860px) {
+}
+@media screen and (max-width: 812px) {
+}
+@media only screen and (min-width : 768px) and (max-width : 991px) {
+}
+@media only screen and (max-width:768px) {
+}
+@media only screen and (max-width:767px) {
+    .ftr-btm {
+        display: none;
+    }
+    .up-rights-img {
+        width: 100%;
+        height: 260px;
+    }
+    .up-rights-img img {
+        height: 100%;
+        object-fit: cover;
+        width: 100%;
+    }
+}
+@media only screen and (max-width:680px) {
+    
+}
+@media only screen and (max-width:640px) {
+}
+@media only screen and (max-width:575px) {
+    .login-section.signup-secion .change-photo{
+        /* margin-bottom: 0;
+        flex-direction: column; */
+    }
+    .login-section.signup-secion .make-sure {
+        margin: 0 0 0 10px;
+    }
+    .login-form {
+        margin-top: 45px;
+    }
+    /* .login-section.signup-secion .foo, .login-section.signup-secion .foo:after{
+        width: 100%;
+    } */
+    .login-section.signup-secion .foo:after {
+        width: 162px;
+    }
+    .login-section.signup-secion .foo {
+        width: 265px;
+    }
+    .link-imgg {
+        display: flex;
+        justify-content: space-between;
+        /* flex-direction: column; */
+    }
+    .login-section.signup-secion .user-img {
+        /* text-align: center; */
+    }
+    .link-imgg .user-img {
+        width: 100%;
+        text-align: center;
+    }
+    .link-imgg .change-photo {
+        width: 100%;
+    }
+    .profile-cover-photos .foo {
+        width: 155px;
+    }
+    .profile-cover-photos .foo:after {
+        padding: 13px 0;
+        width: 100%;
+        font-size: 11px;
+    } 
+    .user-img img {
+        width: 120px;
+        height: 120px;
+    }
+    .coverimg:after{
+        padding:13px 0;
+        font-size: 11px;
+    }
+    .cover-img img {
+        border: 2px solid #FF0039;
+        height: 100px;
+        width: 100%;
+        object-fit: cover;
+    }
+    .cover-img {
+        margin: 15px 0 33px;
+    }
+    .profile-cover-photos .row {
+        justify-content: space-between;
+        flex-wrap: nowrap;
+    }
+    .your-birth-time select:nth-child(1) {
+        /* width: 85%; */
+    }
+    .your-birth-time select:nth-child(2) {
+        /* margin: 0 4px;
+        padding: 0 8px; */
+    }
+    .up-rights {
+        margin-top: 25px;
+    }
+    .up-rights.vd-buttons .media-controls {
+        position: absolute;
+        top: 50%;
+        left: 35%;
+    }
+    .login-section {
+        padding: 80px 30px 50px 30px;
+    }
+    .foo:after{
+        padding: 13px 0;
+    }
+}
+@media only screen and (max-width:480px) {
+}
+@media only screen and (max-width:414px) {
+    .signup-secion .change-photo-inner {
+        width: 90%;
+    }
+    .profile-cover-photos {
+        padding: 0 15px;
+        max-width:100%;
+        margin: 0 auto;
+    }
+    .profile-cover-photos .row {
+        justify-content: space-between;
+        flex-wrap: nowrap;
+    }
+    .change-photo{
+        margin-bottom: 0;
+    }
+    .user-img img {
+        width: 144px;
+        height: 144px;
+    }
+    .cover-img img {
+        height: 105px;
+    }
+    .profile-cover-photos .foo {
+        width: 100%;
+    }
+    .cover-img {
+        margin:30px 0 39px;
+    }
+    .who-inner {
+        flex-direction: column;
+    }
+    .ch-in {
+        width: 100% !important;
+    }
+    .who-inner div {
+        margin: 7px 0;
+    }
+    .ch-in {
+        text-align: left;
+    }
+    ul.choose-content-tab li {
+        margin: 0 0px;
+    }
+    .vd-in {
+        margin: 0 auto 20px auto;
+    }
+    .cus-rd {
+        width: 100% !important;
+    }
+    .addContentSec {
+        max-width: 95%;
+        padding-top: 45px;
+    }
+    .who-inner [type="radio"]:checked + label,
+    .who-inner [type="radio"]:not(:checked) + label {
+        font-size: 11.25px;
+    }
+    .choose-content-tab li a {
+        width: 115px;
+        height: 115px;
+    }
+    .choose-content-tab li a span:nth-child(1) {
+        min-height: 55px;
+        line-height: 50px;
+        width: 45px;
+        margin: 0 auto;
+    }
+    .choose-content-tab li a span{
+        font-size: 20px;
+    }
+    .choose-content br {
+        display: none;
+    }
+    .choose-content h2 {
+        line-height: 28px;
+    }
+    .change-photo-inner {
+        position: relative;
+        width: 100%;
+    }
+    .change-photo-inner label{
+        width: 100%;
+    }
+}
+@media only screen and (max-width:375px) {
+    .change-photo-inner {
+        position: relative;
+        width: 100%;
+    }
+    .link-imgg .change-photo-inner label{
+        font-size: 10px !important;
+        width: 150px;
+    }
+    .change-photo-inner label{
+        width: 100%;
+    }
+    .user-img img {
+        width: 120px;
+        height: 120px;
+    }
+    .cover-img img {
+        height: 80px;
+    }
+    .link-imgg .user-img img {
+        width: 130px;
+        height: 130px;
+    }
+    .login-section {
+        padding: 80px 15px 50px 15px;
+    }
+    .foo:after{
+        width: 100%;
+    }
+    .post-item-btn .media-controls button{
+        width: 100px;
+    }
+    .choose-content-tab li a {
+        width: 104px;
+        height: 104px;
+    }
+}
+@media only screen and (max-width:320px) { 
+    .signup-secion .change-photo-inner {
+        width: 75%;
+    }
+    .link-imgg .change-photo-inner label {
+        font-size: 9px !important;
+        width: 140px;
+    }
+    .link-imgg .user-img img {
+        width: 110px;
+        height: 110px;
+    }
+    .change-photo-inner label{
+        font-size: 10px !important;
+    }
+    .login-section {
+        padding: 80px 10px 50px 10px;
+    }
+    .login-via ul li {
+        margin: 0 15px;
+    }
+    .choose-content-tab li a {
+        width: 84px;
+        height: 84px;
+    }
+    .choose-content-tab li a span:nth-child(1) {
+        min-height: 40px;
+        line-height: 30px;
+        width: 35px;
+        margin: 0 auto;
+    }
+    .choose-content-tab li a span {
+        font-size: 15px;
+    }
+    h2.accordion-header button, .help-sec ul li button{
+        font-size: 14px;
+    }
+}
+@media only screen and (max-width : 568px) and (orientation : landscape) {
+    /* .post-item {
+        width: 49.5%;
+        margin: 10px 0;
+    } */
+    .vd-in{
+        margin: 20px auto;
+    }
+}
+@media only screen and (max-width : 320px) and (orientation : portrait) {
+}
+@media only screen and (min-height: 620px) {
+}
